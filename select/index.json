@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "チョコレイト･ディスコ",
+  "base_artist": "Perfume",
+  "createdAt": "2026-03-12T16:15:06.713395Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "チョコレイト・ディスコ - 2012-Mix",
+      "artist": "Perfume",
+      "has_synced": false,
+      "path": "select/01_チョコレイト・ディスコ_-_2012-Mix_Perfume.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "チョコレイト・ディスコ (2012-Mix)",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/02_チョコレイト・ディスコ_(2012-Mix)_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Chocolate Disco [チョコレイト・ディスコ]",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/03_Chocolate_Disco_[チョコレイト・ディスコ]_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Chocolate Disco [チョコレイト・ディスコ]",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/04_Chocolate_Disco_[チョコレイト・ディスコ]_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "チョコレイト・ディスコ",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/05_チョコレイト・ディスコ_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "チョコレイト・ディスコ (2012-Mix)",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/06_チョコレイト・ディスコ_(2012-Mix)_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "チョコレイト・ディスコ (2013 トヨタ AQUA CMバージョン)",
+      "artist": "まらしぃ",
+      "has_synced": true,
+      "path": "select/07_チョコレイト・ディスコ_(2013_トヨタ_AQUA_CMバージョン)_まらしぃ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "チョコレイト・ディスコ (Chocolate Disco) (2012-Mix)",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/08_チョコレイト・ディスコ_(Chocolate_Disco)_(2012-Mix)_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "チョコレイト・ディスコ - Chocolate Disco",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/09_チョコレイト・ディスコ_-_Chocolate_Disco_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "チョコレイト・ディスコ (2012-Mix)",
+      "artist": "Perfume",
+      "has_synced": false,
+      "path": "select/10_チョコレイト・ディスコ_(2012-Mix)_Perfume.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "チョコレイト・ディスコ",
+      "artist": "Perfume",
+      "has_synced": false,
+      "path": "select/pl_01_チョコレイト・ディスコ_Perfume.txt"
+    }
+  ]
+}
